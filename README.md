@@ -4,13 +4,15 @@ This dude loves code😄
 Eager to learn, collaborate and get better.  
 Things you gotta know about Hero:
  - He has an unexplainable love for Flutter😍♥️
+ - He does front-end with VueJs😌🤤
  - He does backend too. I mean we talking Django and NestJs😁
+ - He's also familiar with Docker🤝
  - He's always looking to collaborate on projects🤤
  - Did i mention looking to collaborate?🤔
  - Oh yeah and he's gon whoop your ass in video games😄.
  
  
-Hit me up here:
+What you waiting for? Hit Hero up here, let's collaborate:
  - [Linkedin](https://www.linkedin.com/in/momoh-herodion-038185183/)
  - [Twitter](https://twitter.com/herocodes_)
  - [Gmail](momohhero2@gmail.com)
