@@ -16,6 +16,10 @@ What you waiting for? Hit Hero up here, let's collaborate:
  - [Linkedin](https://www.linkedin.com/in/momoh-herodion-038185183/)
  - [Twitter](https://twitter.com/herocodes_)
  - [Gmail](momohhero2@gmail.com)
+ 
+ 
+![Hero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=herocodess&theme=cobalt&show_icons=true&&line_height=40)
+![Profile views](https://gpvc.arturio.dev/herocodess)
 
 <!--
 **herocodess/herocodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
