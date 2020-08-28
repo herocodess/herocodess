@@ -13,9 +13,7 @@ Things you gotta know about Hero:
  
  
 What you waiting for? Hit Hero up here, let's collaborate:
- - [Linkedin](https://www.linkedin.com/in/momoh-herodion-038185183/)
- - [Twitter](https://twitter.com/herocodes_)
- - [Gmail](momohhero2@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/herocodess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/herocodes_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='codepen' height='18'>](momohhero2@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='website' height='18'>](https://www.linkedin.com/in/momoh-herodion-038185183/)
  
  
 ![Hero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=herocodess&theme=cobalt&show_icons=true&&line_height=40)
