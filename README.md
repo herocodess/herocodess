@@ -4,7 +4,6 @@ This dude loves code😄
 Eager to learn, collaborate and get better.  
 Things you gotta know about Hero:
  - He has an unexplainable love for Flutter😍♥️
- - He does front-end with AngularJs😌🤤
  - He does backend too. I mean we talking NestJs😁
  - He's also familiar with Docker🤝
  - He's always looking to collaborate on projects🤤
