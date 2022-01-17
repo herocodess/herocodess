@@ -3,6 +3,7 @@
 This dude loves code😄  
 Eager to learn, collaborate and get better.  
 Things you gotta know about Hero:
+ - He is a baby ios developer😌
  - He has an unexplainable love for Flutter😍♥️
  - He does backend too. I mean we talking NestJs😁
  - He's also familiar with Docker🤝
