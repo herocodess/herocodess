@@ -5,8 +5,7 @@ Eager to learn, collaborate and get better.
 Things you gotta know about Hero:
  - He is a baby ios developer😌
  - He has an unexplainable love for Flutter😍♥️
- - He does backend too. I mean we talking NestJs😁
- - He's also familiar with Docker🤝
+ - He does backend too. I mean we talking NestJs and NodeJs😁
  - He's always looking to collaborate on projects🤤
  - Did i mention looking to collaborate?🤔
  - Oh yeah and he's gon whoop your ass in video games😄.
