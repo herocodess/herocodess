@@ -43,7 +43,7 @@ Senior mobile engineer with 5+ years building cross-platform apps that have help
 
 ## 📬 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-herocodess-181717?style=flat&logo=github)](https://github.com/herocodess)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Momoh%20Herodion-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/momoh-herodion-038185183/)  [![Twitter](https://img.shields.io/badge/Twitter-@herocodes__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/herocodes_)  [![Portfolio](https://img.shields.io/badge/Portfolio-herodion.dev-000000?style=flat&logo=vercel)](https://www.herodion.dev)  [![Email](https://img.shields.io/badge/Email-momohhero2%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:momohhero2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-herocodess-181717?style=flat&logo=github)](https://github.com/herocodess)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Momoh%20Herodion-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/momoh-herodion/)  [![Twitter](https://img.shields.io/badge/Twitter-@herocodes__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/herocodes_)  [![Portfolio](https://img.shields.io/badge/Portfolio-herodion.dev-000000?style=flat&logo=vercel)](https://www.herodion.dev)  [![Email](https://img.shields.io/badge/Email-momohhero2%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:momohhero2@gmail.com)
 
 ---
 
