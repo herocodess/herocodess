@@ -8,12 +8,12 @@
 
 ## 👨🏽‍💻 About Me
 
-Senior mobile engineer with 5+ years building cross-platform apps that have helped companies raise over **$8.5M in venture funding**. I've shipped products in fintech, health tech, AI, and enterprise — remotely across 7 countries. Currently at **SuperNomics** building enterprise AI workforce products.
+Senior mobile engineer with 5+ years building cross-platform apps that have helped companies raise over **$8.5M in venture funding**. I've shipped products in fintech, health tech, AI, and enterprise, remotely across 7 countries. Currently at **SuperNomics** building enterprise AI workforce products.
 
 - 🚀 Products I've built helped close a **YC-backed $4.5M round** and a **$4M health tech raise**
-- 🧪 Obsessed with testing — **89–92% code coverage** is my baseline
+- 🧪 Obsessed with testing, **89–92% code coverage** is my baseline
 - 🌍 Thriving in remote, async-first teams across Nigeria, India, Estonia, Serbia, UK, Italy & the US
-- 🏗️ Full lifecycle ownership — architecture through App Store deployment
+- 🏗️ Full lifecycle ownership, architecture through App Store deployment
 
 ---
 
