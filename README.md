@@ -1,4 +1,4 @@
-# Hi, I'm Hero — I build apps that raise millions 🚀
+# Hi, I'm Hero. I build apps that raise millions 🚀
 
 **Senior Mobile Engineer | Flutter, React Native & Native iOS/Android**
 
