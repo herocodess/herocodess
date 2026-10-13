@@ -20,7 +20,7 @@ I ship AI-powered products end to end: **web, mobile, backend and LLM systems**.
 
 ## About me
 
-I'm a product-minded engineer who owns the whole stack, from the database schema and API through the LLM pipeline to the screen in someone's hand. I'm **CTO at [Kraftyn](https://www.kraftyn.com)**, a venture studio building focused products like Kuvori and EventBrdge, and I'm also at **SuperNomics**, building enterprise AI workforce products.
+I'm a product-minded engineer who owns the whole stack, from the database schema and API through the LLM pipeline to the screen in someone's hand. I'm **CTO at [Kraftyn](https://www.kraftyn.com)**, a venture studio building focused products like Kuvori and EventBrdge, and at **SuperNomics** I lead the mobile team building an enterprise AI workforce product.
 
 - 🤖 **AI engineering**: agents, RAG pipelines and multi-provider LLM apps on OpenAI and Claude, plus voice features
 - 🌐 **Full-stack**: Next.js and React on the front end; NestJS, Go and Python/FastAPI services on Postgres, Supabase and MongoDB
@@ -47,14 +47,6 @@ A local-first CLI that parses your code with tree-sitter and flags layer breache
 `TypeScript` `tree-sitter` `CLI` `Developer tools`
 **[Website](https://driftlog.dev)**
 
-### Askwell: AI front desk for small businesses
-Answers customer questions using only the business's own content (Instagram, price lists, website), cites the source on every reply, and hands serious leads to the owner's WhatsApp with the full chat attached.
-`Next.js` `Supabase` `RAG` `WhatsApp`
-
-### 🎮 Hustle World *(soft launch, coming soon)*
-A multiplayer street-economy game that runs in the browser and is tuned for budget Android phones on 4G. Up to 60 players per street. A server-authoritative double-entry ledger tracks all the money, and each city is a config file.
-`Three.js` `Colyseus` `TypeScript` `Supabase` `Real-time multiplayer`
-
 ---
 
 ## 🏆 Professional highlights
@@ -62,7 +54,7 @@ A multiplayer street-economy game that runs in the browser and is tuned for budg
 | Company | What I did | Impact |
 |---------|-----------|--------|
 | **Kraftyn** | CTO: leading engineering across the studio's ventures | Venture studio |
-| **SuperNomics** | Building enterprise AI workforce products | AI / Enterprise |
+| **SuperNomics** | Led the mobile team building the enterprise AI workforce product | AI / Enterprise |
 | **Alaan** | Built core fintech product | **$4.5M YC-backed round**, 92% coverage |
 | **NirogStreet** | Shipped health tech platform | **$4M raise**, launched 2 weeks early, 89% coverage |
 | **MindSpa** | Led the v4.2 release | Automated CI/CD with Shorebird |
