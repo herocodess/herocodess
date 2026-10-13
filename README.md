@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Hi%2C%20I'm%20Hero&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Hero. Full-Stack & AI Engineer" />
+
 <div align="center">
 
-# Hi, I'm Hero 👋
-
-### Full-Stack & AI Engineer · I build products that raise millions
+<a href="https://www.herodion.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=I+build+products+that+raise+millions;AI+agents+%C2%B7+RAG+%C2%B7+LLM+apps;Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+FastAPI;Flutter+%C2%B7+React+Native+%C2%B7+iOS+%C2%B7+Android;CTO+at+Kraftyn" alt="I build products that raise millions" /></a>
 
 **CTO at [Kraftyn](https://www.kraftyn.com)**
 
@@ -117,6 +117,16 @@ A multiplayer street-economy game that runs in the browser and is tuned for budg
 
 ---
 
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herocodess/herocodess/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herocodess/herocodess/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/herocodess/herocodess/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <div align="center">
 
 **Open to full-stack, AI engineering and senior mobile roles · remote**
@@ -126,3 +136,5 @@ A multiplayer street-economy game that runs in the browser and is tuned for budg
 <sub><i>Also, I will beat you in video games. Just putting that out there.</i> 🎮</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0f172a&height=110&section=footer" width="100%" alt="" />
