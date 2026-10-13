@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Hi%2C%20I'm%20Hero&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Hero. Full-Stack & AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=200&section=header&text=Hi%2C%20I%27m%20Hero&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Hero. Full-Stack & AI Engineer" />
 
 <div align="center">
 
