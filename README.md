@@ -8,7 +8,7 @@ I treat quality as part of the job, not a phase after it: 89–92% test coverage
 
 <br/>
 
-### Products I've built
+### Products I've shipped solo
 
 <table>
   <tr>
