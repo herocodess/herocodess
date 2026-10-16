@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" rx="16" fill="#0d1117"/>
+  <g fill="none" stroke="#1c222b" stroke-width="1">
+    <path d="M820 0v260M880 0v260M940 0v260M1000 0v260M1060 0v260M1120 0v260M760 40h440M760 100h440M760 160h440M760 220h440"/>
+  </g>
+  <circle cx="1040" cy="130" r="70" fill="none" stroke="#a594ff" stroke-width="2"/>
+  <circle cx="1040" cy="130" r="8" fill="#a594ff"/>
+  <text x="64" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#f0f6fc">Momoh Herodion</text>
+  <text x="66" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#9198a1">Full-stack &amp; AI engineer · CTO at Kraftyn</text>
+  <text x="66" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#a594ff">web · mobile · backend · LLM systems</text>
+</svg>
