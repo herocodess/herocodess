@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
-  <img src="./assets/header-light.svg" width="100%" alt="Momoh Herodion, full-stack and AI engineer"/>
-</picture>
-
-<br/>
-
 I'm Hero, a full-stack and AI engineer and CTO at [Kraftyn](https://www.kraftyn.com). For 5+ years I've built AI-powered products end to end, across web, mobile, backend and LLM systems, working remotely with teams in 7 countries. Products I've built have helped companies raise more than **$8.5M in venture funding**.
 
 I own the whole stack, from the database schema and API through the LLM pipeline to the screen in someone's hand. At Kraftyn, a venture studio building focused products like Kuvori and EventBrdge, I lead engineering across the studio's ventures. At SuperNomics I lead the mobile team building an enterprise AI workforce product.
@@ -74,5 +67,3 @@ I treat quality as part of the job, not a phase after it: 89–92% test coverage
 <br/><br/>
 
 Open to full-stack, AI engineering and senior mobile roles (remote). More at **[herodion.dev](https://www.herodion.dev)**.
-
-<img src="https://komarev.com/ghpvc/?username=herocodess&label=profile%20views&color=8b949e&style=flat-square" alt="Profile views"/>
