@@ -12,21 +12,30 @@ I treat quality as part of the job, not a phase after it: 89–92% test coverage
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://playhustleworld.com"><img src="./assets/hustleworld.jpg" alt="Hustle World"/></a>
+      <p><a href="https://playhustleworld.com"><b>Hustle World</b></a><br/>
+      A multiplayer street-hustle game in the browser. Pick a corner on a real city street, open a stand, pay your rent at dawn and beat the hustler next door.</p>
+      <p>A 3D street you can rotate, zoom and walk, with live players on streets in Lagos and Nairobi. Play as a guest or sign in with Google. Free in your browser.<br/>
+      <sub>Three.js · Colyseus · Railway · Cloudflare</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://postrun.app"><img src="./assets/postrun.jpg" alt="Postrun"/></a>
       <p><a href="https://postrun.app"><b>Postrun</b></a><br/>
       The flight recorder for AI coding agents. Records every command, edit, file read and reply that Claude Code and Cline make, on your own machine.</p>
       <p>Review the session in a local app, sign it off, and share a redacted report. Free and open source on npm.<br/>
       <sub>TypeScript · Node.js · Local-first</sub></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://whyloop.app"><img src="./assets/whyloop.jpg" alt="Whyloop"/></a>
       <p><a href="https://whyloop.app"><b>Whyloop</b></a><br/>
       AI mock interviews that teach. An AI interviewer plans an interview for your exact role, CV and job description, and asks follow-ups when an answer is shallow.</p>
       <p>Every answer is graded against one rubric, and what you missed becomes hints, walkthroughs and audio lessons. Four interviewers on four LLM providers, in six languages.<br/>
       <sub>Next.js · Supabase · AI SDK · Anthropic · OpenAI · xAI · DeepSeek</sub></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://driftlog.dev"><img src="./assets/driftlog.jpg" alt="Driftlog"/></a>
       <p><a href="https://driftlog.dev"><b>Driftlog</b></a><br/>
       Architectural drift detection. A local-first CLI that parses your code with tree-sitter.</p>
@@ -60,8 +69,8 @@ I treat quality as part of the job, not a phase after it: 89–92% test coverage
 ### What I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cnestjs%2Cnodejs%2Cgo%2Cpython%2Cfastapi%2Cgraphql%2Cpostgres%2Csupabase%2Cmongodb%2Cfirebase%2Cflutter%2Cswift%2Ckotlin%2Caws%2Cvercel%2Cdocker&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nestjs,nodejs,go,python,fastapi,graphql,postgres,supabase,mongodb,firebase,flutter,swift,kotlin,aws,vercel,docker&theme=light" alt="TypeScript, React, Next.js, Tailwind, NestJS, Node.js, Go, Python, FastAPI, GraphQL, PostgreSQL, Supabase, MongoDB, Firebase, Flutter, Swift, Kotlin, AWS, Vercel, Docker"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cthreejs%2Ctailwind%2Cnestjs%2Cnodejs%2Cgo%2Cpython%2Cfastapi%2Cgraphql%2Cpostgres%2Csupabase%2Cmongodb%2Cfirebase%2Cflutter%2Cswift%2Ckotlin%2Caws%2Cvercel%2Ccloudflare%2Cdocker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,nestjs,nodejs,go,python,fastapi,graphql,postgres,supabase,mongodb,firebase,flutter,swift,kotlin,aws,vercel,cloudflare,docker&theme=light" alt="TypeScript, React, Next.js, Three.js, Tailwind, NestJS, Node.js, Go, Python, FastAPI, GraphQL, PostgreSQL, Supabase, MongoDB, Firebase, Flutter, Swift, Kotlin, AWS, Vercel, Cloudflare, Docker"/>
 </picture>
 
 <br/><br/>
